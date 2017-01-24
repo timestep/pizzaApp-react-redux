@@ -2,6 +2,8 @@
 
 # React / Redux Boilerplate
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/timestep/pizzaApp-react-redux.svg)](https://greenkeeper.io/)
+
 [Demo - react-redux-boilerplate](http://andrewdamel.io/dev/react-redux)
 
 #### Core libraries and tools:
